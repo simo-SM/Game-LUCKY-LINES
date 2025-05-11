@@ -1,9 +1,9 @@
-# GAME-LUCKY-LINES
-# LUCKY LINES - Terminal Slot Machine Game
+### GAME-LUCKY-LINES
+### LUCKY LINES - Terminal Slot Machine Game
 
 Welcome to **LUCKY LINES**, a simple and fun slot machine game written in Python that runs directly in your terminal. Try your luck, bet on lines, and see how much you can win!
 
-##  Features
+## Features
 
 -  Bet on 1 to 3 lines
 -  Adjustable betting amount
