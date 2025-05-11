@@ -11,6 +11,6 @@ Welcome to **LUCKY LINES**, a simple and fun slot machine game written in Python
 -  Terminal-friendly visual display
 -  ASCII art and highlights for winning lines
 
-## 📸 Preview
+## Preview
 
 ![Screenshot 2025-05-11 185447](https://github.com/user-attachments/assets/262c4ea0-6d12-4ee8-9303-a3678e6f61e4)
